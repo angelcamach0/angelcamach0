@@ -13,7 +13,7 @@
 
 💬 **Ask Me About**: My journey into tech, the projects I've worked on, or my favorite programming languages.
 
-📫 **How to Reach Me**: Drop me a message on [LinkedIn](https://www.linkedin.com/in/angelcamacho/](https://www.linkedin.com/in/angel-camach0/) or shoot me an email at [the.angel.camacho@gmail.com](mailto:the.angel.camacho@gmail.com).
+📫 **How to Reach Me**: Drop me a message on [LinkedIn]([https://www.linkedin.com/in/angelcamacho/](https://www.linkedin.com/in/angel-camach0/]) or shoot me an email at [the.angel.camacho@gmail.com](mailto:the.angel.camacho@gmail.com).
 
 😄 **Pronouns**: He/Him
 
