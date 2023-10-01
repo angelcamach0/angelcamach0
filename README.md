@@ -1,8 +1,7 @@
 ### Hello, world! 👋 I'm Angel Camacho
 
-<!--
+
 **angelcamach0/angelcamach0** is a ✨ _unique_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
--->
 
 🔭 **Currently Working On**: Enhancing my web development skills and diving deep into the world of machine learning.
 
@@ -24,7 +23,6 @@
 
 📊 **This Week I Spent My Time On**:
 <!--START_SECTION:waka-->
-```text
 JavaScript   12 hrs 30 mins  ██████████████▒░░░░░░░░░░   57.00 % 
 Python       6 hrs 20 mins   ███████▒░░░░░░░░░░░░░░░░░   28.90 % 
 HTML         2 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
