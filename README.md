@@ -1,8 +1,7 @@
 ### Hello, world! 👋 I'm Angel G Camacho
 
 📍 **Location**: New Mexico 
-📧 **Email**: [angelcam@nmsu.edu](mailto:angelcam@nmsu.edu)  
-🌐 **Portfolio**: [angel-camacho.com](https://angel-camacho.com/)  
+📧 **Email**: [angelcam@nmsu.edu](mailto:angelcam@nmsu.edu)    
 🔗 **LinkedIn**: [angel-camach0](https://www.linkedin.com/in/angel-camach0/)  
 
 ---
