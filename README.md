@@ -43,6 +43,7 @@
 ## 🚀 Current Projects
 - **Neural Network Exploration**: Diving deep into neural technologies.
 - **Cloud Security**: Researching best practices in cloud security architecture.
+- **Bio Informatics**: Continuously learning! And very Passionate check out my biozero project!
 
 ---
 
