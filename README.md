@@ -1,51 +1,81 @@
-### Hello, world! 👋 I'm Angel G Camacho
+<!-- ========================= -->
+<!--        PROFILE README     -->
+<!-- ========================= -->
 
-📍 **Location**: New Mexico 
-📧 **Email**: [angelcam@nmsu.edu](mailto:angelcam@nmsu.edu)    
-🔗 **LinkedIn**: [angel-camach0](https://www.linkedin.com/in/angel-camach0/)  
+<h1 align="center">Angel G. Camacho</h1>
+<p align="center">
+  <b>Cloud Security Architecture • Systems Builder • AI / Bioinformatics Curiosity</b><br/>
+  New Mexico, USA • <a href="mailto:angelcam@nmsu.edu">angelcam@nmsu.edu</a> •
+  <a href="https://www.linkedin.com/in/angel-camach0/">LinkedIn</a>
+</p>
 
----
-
-🎯 **Objective**: Passionate about cloud security architecture and the intricate technologies behind neural advancements. Always on the lookout for innovative solutions in the tech landscape.
-
----
-
-🛠️ **Tech Skills**:
-- **Languages**: Java, C/C++, Python, JavaScript
-- **Technologies**: Linux/Unix, HTML, RHEL, Microsoft Excel
-
----
-
-🎮 **Fun Facts About Me**:
-- **Nature Enthusiast**: Whether it's a serene lakeside or a bustling forest trail, nature's wonders never cease to amaze me.
-- **Gamer**: From strategic chess moves to immersive video games, I'm all in.
-- **Language Buff**: Currently unraveling the intricacies of German. "Hallo, wie geht's?"
-- **Bookworm**: Currently engrossed in "House of Leaves". It's a captivating journey!
-- **Tech Curiosity**: Intrigued by the technologies driving neural advancements. The future is now!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=angelcamach0&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20Security%20%26%20Architecture-000?style=flat-square" alt="focus" />
+  <img src="https://img.shields.io/badge/Loves-Linux-000?style=flat-square" alt="linux" />
+</p>
 
 ---
 
-🤔 **Did You Know?**:
-- The first computer virus was created in 1983!
-- The password for the computer controls of nuclear-tipped missiles of the U.S. was 00000000 for eight years.
-- ![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelcamach0&show_icons=true&theme=radical)
+## ⚡ About Me
+I build and secure systems with a cloud-first mindset—**identity**, **hardening**, and **practical defense**.
+I’m also interested in **neural/AI technologies** and how they intersect with real infrastructure.
 
+- 🔭 Current build: **BioZero** (security + bioinformatics lab/project)
+- 🧠 Learning: cloud security architecture patterns + defensive engineering
+- 🧰 I like shipping things that are **documented**, **testable**, and **repeatable**
 
 ---
 
-## 🛠️ Workspace Setup
-- **OS**: Red Hat Enterprise Linux 9
-- **IDE**: Visual Studio Code
-- **Browser**: Firefox Quantum
+## 🧱 Tech Stack
+**Languages:** Java • C/C++ • Python • JavaScript  
+**Platforms:** Linux/Unix • RHEL  
+**Other:** HTML • Microsoft Excel
+
+<p>
+  <img src="https://img.shields.io/badge/OS-RHEL%209-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Browser-Firefox-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux-Enjoyer-black?style=flat-square" />
+</p>
 
 ---
 
 ## 🚀 Current Projects
-- **Neural Network Exploration**: Diving deep into neural technologies.
-- **Cloud Security**: Researching best practices in cloud security architecture.
-- **Bio Informatics**: Continuously learning! And very Passionate check out my biozero project!
+- **BioZero** — a hands-on lab focused on secure systems, evidence-driven testing, and real workflows  
+- **Cloud Security** — hardening + architecture patterns, secure services, auth concepts  
+- **Neural / AI Exploration** — learning + experiments
 
 ---
 
-🤝 **Let's Connect!** Whether it's tech, nature, or just a casual chat, I'm here!
+## 🧊 Fun Bits
+- 🌲 Outdoors: lakes, trails, forests
+- ♟️ Strategy brain: chess + games
+- 🇩🇪 German learner: *“Hallo, wie geht’s?”*
+- 📚 Reading: *House of Leaves*
 
+---
+
+## 📊 GitHub Signals
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=angelcamach0&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelcamach0&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=angelcamach0&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=angelcamach0&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=angelcamach0&theme=redical" />
+</p>
+
+---
+
+## 🤝 Connect
+If you’re into cloud security, building labs, or AI—let’s connect.
