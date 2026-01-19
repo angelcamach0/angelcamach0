@@ -64,13 +64,7 @@ I’m also interested in **neural/AI technologies** and how they intersect with 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelcamach0&layout=compact&theme=radical" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=angelcamach0&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=angelcamach0&theme=radical&no-frame=true&row=1&column=6" />
-</p>
+![GitHub Streak](https://streak-stats.vercel.app/?user=angelcamach0&theme=radical)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=angelcamach0&theme=redical" />
